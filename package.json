@@ -1,0 +1,19 @@
+{
+  "name": "language-tenableaudits",
+  "main": "./lib/language-tenableaudits",
+  "version": "0.0.0",
+  "description": "Tenable Tree-sitter grammer package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "language-tenableaudits:toggle"
+  },
+  "repository": "https://github.com/atom/language-tenableaudits",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "sitter-tenableaudits": "sitter-tenableaudits"
+  }
+}

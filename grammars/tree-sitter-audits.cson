@@ -1,0 +1,10 @@
+id: 'audit'
+name: 'Tenable Audits'
+type: 'tree-sitter'
+scopeName: 'source.tenableaudits'
+parser: 'sitter-tenableaudits'
+
+fileTypes: ['audit']
+
+scopes:
+  'program': 'tenableaudits'
