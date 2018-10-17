@@ -8,12 +8,12 @@
   "activationCommands": {
     "atom-workspace": "language-tenableaudits:toggle"
   },
-  "repository": "https://github.com/atom/language-tenableaudits",
+  "repository": "https://github.com/rjcomp/language-tenableaudits",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "sitter-tenableaudits": "sitter-tenableaudits"
+    "sitter-tenableaudits": "github:sitter-tenableaudits"
   }
 }
