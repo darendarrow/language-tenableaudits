@@ -6,6 +6,9 @@ parser: 'sitter-tenableaudits'
 
 fileTypes: ['audit']
 
+comments:
+  start: '#'
+
 scopes:
   'program': 'source.tenableaudits'
   'comment': 'comment.block'
