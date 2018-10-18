@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle language-tenableaudits",
+        "command": "language-tenableaudits:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "language-tenableaudits",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "language-tenableaudits:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
