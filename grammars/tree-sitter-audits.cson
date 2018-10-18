@@ -13,3 +13,4 @@ scopes:
   'program': 'source.tenableaudits'
   'comment': 'comment.block'
   'ui_metadata': 'string'
+  'meta_displayname': 'string'
