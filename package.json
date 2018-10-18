@@ -1,7 +1,7 @@
 {
   "name": "language-tenableaudits",
   "main": "./lib/language-tenableaudits",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Tenable Tree-sitter grammer package",
   "keywords": [],
   "activationCommands": {
