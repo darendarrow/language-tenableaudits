@@ -1,10 +1,9 @@
 {
   "name": "language-tenableaudits",
   "main": "./lib/language-tenableaudits",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tenable Tree-sitter grammer package",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/rjcomp/language-tenableaudits",
   "license": "MIT",
   "engines": {
