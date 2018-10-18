@@ -12,3 +12,4 @@ comments:
 scopes:
   'program': 'source.tenableaudits'
   'comment': 'comment.block'
+  'ui_metadata': 'string'
