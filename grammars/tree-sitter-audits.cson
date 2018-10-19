@@ -11,3 +11,4 @@ scopes:
   'meta_displayname': 'string'
   'spec_block': 'string'
   'spec_block > spec_link': 'entity.name.function'
+  'check_type': 'string'
